@@ -1,3 +1,4 @@
 # Portfolio-Project-01
 One of many attempts at a static website from scratch with downloadable files and some scripts
-<iframe src="https://giphy.com/embed/aLJWTeOv48KNm6dzUl" width="480" height="248" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aLJWTeOv48KNm6dzUl">via GIPHY</a></p>
+
+![site-giphy](https://user-images.githubusercontent.com/94889720/168604492-e406d42c-3b62-466a-abb8-3f664d800408.gif)
